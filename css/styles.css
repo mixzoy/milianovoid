@@ -1371,7 +1371,7 @@ color: #FFFFFF;
     justify-content: center;
     display: flex;
     height: 350px;
-    background-image: url(/img/mili\ tour.png);
+    background-image: url(../img/militour.png);
 }
 .header_image_text1{
     margin-left: 247px;
